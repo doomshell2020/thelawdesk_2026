@@ -1,0 +1,38 @@
+06-08-2025 06:06:50 - INFO  - 8.9.3 - 60.2 MB/256 MB - admin@thelawdesk.org > Start upgrade from 0.0.0
+06-08-2025 06:06:50 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_emails`] => Created table `zjlvz_newsletter_emails`
+)
+
+06-08-2025 06:06:50 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_sent`] => Created table `zjlvz_newsletter_sent`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter`] => Created table `zjlvz_newsletter`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_user_logs`] => Created table `zjlvz_newsletter_user_logs`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_user_meta`] => Created table `zjlvz_newsletter_user_meta`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_stats`] => Created table `zjlvz_newsletter_stats`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Array
+(
+    [`zjlvz_newsletter_logs`] => Created table `zjlvz_newsletter_logs`
+)
+
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > Backing up options of 0.0.0
+06-08-2025 06:06:51 - INFO  - 8.9.3 - 60.6 MB/256 MB - admin@thelawdesk.org > End

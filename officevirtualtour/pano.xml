@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.0.1" start="node15" apprev="17227">
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1864" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1864">
+      <level width="1864" height="1864" preload="0" predecode="0"/>
+      <level width="932" height="932" preload="0" predecode="0"/>
+      <level width="466" height="466" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:47" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-100.86" tilt="-8.04" target="132.4/-1.4/70.0" description="" url="{node8}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1852" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1852">
+      <level width="1852" height="1852" preload="0" predecode="0"/>
+      <level width="926" height="926" preload="0" predecode="0"/>
+      <level width="463" height="463" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:44" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-98.02" tilt="-11.77" target="125.8/-6.3/70.0" description="" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1847" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1847">
+      <level width="1847" height="1847" preload="0" predecode="0"/>
+      <level width="923" height="923" preload="0" predecode="0"/>
+      <level width="461" height="461" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 13:01" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-203.17" tilt="-10.83" target="112.3/-6.0/70.0" description="" url="{node13}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1911" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1911">
+      <level width="1911" height="1911" preload="0" predecode="0"/>
+      <level width="955" height="955" preload="0" predecode="0"/>
+      <level width="477" height="477" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:34" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-45.15" tilt="-12.54" target="23.3/-2.4/70.0" description="" url="{node6}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1855" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1855">
+      <level width="1855" height="1855" preload="0" predecode="0"/>
+      <level width="927" height="927" preload="0" predecode="0"/>
+      <level width="463" height="463" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 13:05" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-223.44" tilt="-1.03" target="-177.8/-5.7/70.0" description="" url="{node15}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1889" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1889">
+      <level width="1889" height="1889" preload="0" predecode="0"/>
+      <level width="944" height="944" preload="0" predecode="0"/>
+      <level width="472" height="472" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:40" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Conference Room" pan="-94.89" tilt="-11.38" target="-118.4/-4.7/70.0" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-331.96" tilt="-7.33" target="-169.7/-6.6/70.0" description="" url="{node14}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-245" tilt="-5.97" target="127.3/-4.6/70.0" description="" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point04" title="" pan="-64.6" tilt="-8.23" target="-20.0/-0.9/70.0" description="" url="{node15}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1848" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1848">
+      <level width="1848" height="1848" preload="0" predecode="0"/>
+      <level width="924" height="924" preload="0" predecode="0"/>
+      <level width="462" height="462" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:43" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-231.27" tilt="-4.29" target="120.9/-7.9/70.0" description="" url="{node8}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-52.87" tilt="-8" target="-69.5/-3.7/70.0" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-333.12" tilt="-7.65" target="68.7/5.3/70.0" description="" url="{node2}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1846" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1846">
+      <level width="1846" height="1846" preload="0" predecode="0"/>
+      <level width="923" height="923" preload="0" predecode="0"/>
+      <level width="461" height="461" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:49" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-235.87" tilt="-2.33" target="91.7/0.3/70.0" description="" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-57.68" tilt="-3.25" target="-54.1/-7.7/70.0" description="" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-332.72" tilt="-6.68" target="86.5/-0.9/70.0" description="" url="{node1}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1851" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1851">
+      <level width="1851" height="1851" preload="0" predecode="0"/>
+      <level width="925" height="925" preload="0" predecode="0"/>
+      <level width="462" height="462" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:51" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-87.52" tilt="-4.32" target="-59.1/-7.0/70.0" description="" url="{node8}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-354.79" tilt="-10.17" target="179.5/-1.6/70.0" description="" url="{node10}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-189.59" tilt="-4.9" target="94.0/-4.3/70.0" description="" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1859" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1859">
+      <level width="1859" height="1859" preload="0" predecode="0"/>
+      <level width="929" height="929" preload="0" predecode="0"/>
+      <level width="464" height="464" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:52" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-6.69" tilt="-7.15" target="176.5/-2.8/70.0" description="" url="{node9}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1910" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1910">
+      <level width="1910" height="1910" preload="0" predecode="0"/>
+      <level width="955" height="955" preload="0" predecode="0"/>
+      <level width="477" height="477" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:55" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-74.15" tilt="-5.65" target="-87.0/-6.6/70.0" description="" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1895" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1895">
+      <level width="1895" height="1895" preload="0" predecode="0"/>
+      <level width="947" height="947" preload="0" predecode="0"/>
+      <level width="473" height="473" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:53" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-272.33" tilt="-9.08" target="103.4/1.8/70.0" description="" url="{node11}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-18.17" tilt="-10.43" target="-144.7/-4.1/70.0" description="" url="{node13}" skinid="ht_node"/>
+      <hotspot id="Point03" title="" pan="-89.53" tilt="-10.95" target="4.4/-3.2/70.0" description="" url="{node9}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1853" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1853">
+      <level width="1853" height="1853" preload="0" predecode="0"/>
+      <level width="926" height="926" preload="0" predecode="0"/>
+      <level width="463" height="463" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:59" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-33.81" tilt="-8.72" target="-12.6/1.1/70.0" description="" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-345.94" tilt="-10.4" target="-165.7/-11.3/70.0" description="" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1843" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1843">
+      <level width="1843" height="1843" preload="0" predecode="0"/>
+      <level width="921" height="921" preload="0" predecode="0"/>
+      <level width="460" height="460" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:31" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-0.79" tilt="-5.94" target="109.5/-6.3/70.0" description="" url="{node6}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1900" levelingpitch="0" leveltilesize="510" overlap="1" levelbiashidpi="1.000" height="1900">
+      <level width="1900" height="1900" preload="0" predecode="0"/>
+      <level width="950" height="950" preload="0" predecode="0"/>
+      <level width="475" height="475" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="170.499" tilt="4.27493" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" scaletofit="1" pan="360" tilt="90" fov="120" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="17-11-2018 12:36" tags="the law desk new"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label bordercolor="0x000000" background="1" textcolor="0x000000" backgroundalpha="1" borderalpha="1" wordwrap="1" border="1" borderradius="1" width="180" backgroundcolor="0xffffff" enabled="1" textalpha="1" height="20"/>
+      <polystyle bordercolor="0x0000ff" handcursor="1" backgroundalpha="0.2509803921568627" borderalpha="1" mode="0" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="" pan="-154.98" tilt="-6.19" target="113.6/-6.9/70.0" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point02" title="" pan="-54.24" tilt="-9.78" target="-120.7/-7.0/70.0" description="" url="{node5}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomout="0" zoomin="0" type="crossdissolve" blendcolor="0x000000" enabled="1" zoomoutpause="1" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <autorotate useanimation="0" speed="0.400" startloaded="0" delay="5.00" nodedelay="15.00" noderandom="0" enabled="1" returntohorizon="0.000"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedmouse="0" contextprojections="1" lockedwheel="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" invertwheel="0" sensitivity="8" simulatemass="1" rubberband="0" contextfullscreen="1" hideabout="1" lockedkeyboardzoom="0" lockedkeyboard="0">
+      <menulink text="The Law Desk " url=""/>
+      <menulink text="Virtual TOur Created By Click Inside Virtual  Tour" url="http://clickinsides.com/"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata latitude="" title="" source="" author="" longitude="" info="" description="" copyright="" customnodeid="" comment="" datetime="" tags=""/>
+  </masternode>
+</tour>

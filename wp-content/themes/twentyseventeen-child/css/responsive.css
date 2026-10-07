@@ -1,0 +1,284 @@
+@media (min-width: 400px) {
+/* footer{   background-size: 100% 100%;  } */
+  header .logo{ width: 100px;}
+
+  #outTeamSec .ourTeamBx{ width: 70%;}
+
+  #dtlPgCnt .entry-content p:first-child{ font-size: 20px; font-weight: 500;}
+
+  #internshipSec .internshipExp h4, #internshipSec .internshipExp h4 strong{ font-size: 32px;}
+
+  #inrPgBnr .inrPgBnrCnt h1{ font-size: 28px;}
+
+  #knowledgeCntrSec p{ font-size: 20px;}
+
+  #inrPgBnr{ height: auto;}
+
+   #slider .slider-cntnt h1{ font-size: 36px;}
+
+ hgroup.siteHeading h2, #internshipFrm .secHeading h2{font-size: 32px;}
+
+}
+
+@media(min-width:480px){
+  .menuRightSidebar{ width: 320px; right: -320px;}
+  .subscription-sec{padding: 40px; padding-top: 120px;}
+  .subscription-sec h2{ font-size: 24px;}
+  .subscription-sec p{ font-size: 16px;}
+}
+
+/* Small (sm) — 576px and up */
+
+@media (min-width: 576px) {
+  .our-teammodal .modal-body .close{  right: -24px;
+
+    top: -24px;}
+  #agrementMdl .mdlCnt p{ font-size: 16px; line-height: 26px;}
+.subscription-sec h2{ font-size: 28px;}
+.subscription-sec .check-img img{ width: 150px;}
+      #historyInsightSec  .row { row-gap: 30px;}
+
+  #historyInsightSec .historyBxCnt{ font-size: 16px;}
+
+header .logo{ width: 120px;}
+
+  .modal-lg, .modal-xl{ max-width: 800px; }
+
+   #green-ground-pg ul li{ font-size: 16px;}
+
+   #green-ground-pg ul li:before{ top: 7px;}
+
+  #outTeamSec .row .col-lg-3:last-child{ margin-bottom: 30px;}
+
+    #outTeamSec .ourTeamBx .ourTeamImg{ height: 270px;}
+
+  #outTeamSec .ourTeamBx{ width: 100%;}
+
+  #dtlPgCnt .entry-content p:first-child{ font-size: 24px;}
+
+  .blg-cntnt h4{ min-height: 43px;}
+
+  #contactPgInfo .row{ row-gap: 30px;}
+
+  #aboutSec .aboutImg{ width: 55%;}
+
+    #our_clientsec .clientsLogoUl li{ width: 33.333%;}
+
+    #our_clientsec .clientLogoDv{ height: 120px;}
+
+  #internshipFrm .internshipFrmBx{ padding: 40px;}
+
+  #letsTlk input::-webkit-input-placeholder, #letsTlk textarea::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+
+   font-size:14px ;
+
+}
+
+#letsTlk input::-moz-placeholder, #letsTlk textarea::-moz-placeholder { /* Firefox 19+ */
+
+   font-size:14px ;
+
+}
+
+#letsTlk input:-ms-input-placeholder, #letsTlk textarea:-ms-input-placeholder { /* IE 10+ */
+
+   font-size:14px ;
+
+}
+
+#letsTlk input:-moz-placeholder, #letsTlk textarea:-moz-placeholder { /* Firefox 18- */
+
+   font-size:14px ;
+
+}
+
+.form-control{ font-size: 16px;}
+
+  #internshipSec .secHeading h2{ font-size: 26px;}
+
+  #internshipSec .internshipExp h4 span{ font-size: 18px;}
+
+  #internshipSec .internshipExp h4, #internshipSec .internshipExp h4 strong{ font-size: 42px;}
+
+  #internshipSec .internshipBx{ width: 65%;}
+
+  #inrPgBnr .inrPgBnrCnt h1{ font-size: 32px;}
+
+  #knowledgeCntrSec p{ font-size: 22px;}
+
+  #knowledgeCntrSec .knowledgeBx .knowledgeBxDv a{ font-size: 16px;}
+
+  #knowledgeCntrSec .knowledgeCenterUl li a{ min-width: 160px; font-size: 16px;}
+
+  #knowledgeCntrSec .knowledgeBx iframe{ height: 40vw;}
+
+  #inrPgBnr .inrPgBnrCnt{ top: 50%;}
+
+  footer .copyrightDv{ margin-top: 30px;}
+
+  footer .footerDv h5{ font-size: 24px; margin-bottom: 22px;}
+
+  footer .contactInfoSingle .contactInfoRight h6{ font-size: 20px;}
+
+      footer .contactInfoSingle .contactInfoLft{ display: block;}
+
+      footer .contactInfoSingle .contactInfoRight{width: calc(100% - 140px);}
+
+  #practiceAreaSec .practiceAreaBx{ margin-bottom: 80px;}
+
+  #practiceAreaSec .practiceAreaBx .practiceAreaImg{border-radius: 30px 0px 30px 0px;}
+
+  #practiceAreaSec .practiceAreaBx .practiceAreaCnt{ position: absolute; width: 90%; left: 0; right: 0; bottom: -50px; z-index: 9; border-radius: 30px 0px 30px 0px;}
+
+    .industryPulse-home .row .col-12:last-child{ display: block;}
+
+ #slider .slider-cntnt h1, hgroup.siteHeading h2, #internshipFrm .secHeading h2{font-size: 40px;}
+
+}
+
+
+
+/* Medium (md) — 768px and up */
+
+@media (min-width: 768px) {
+.subscription-sec .subscription-inr{ width: 80%;}
+footer{ background-size: cover; background: url(../images/footerBg.jpg) no-repeat center center;  }
+
+  #dtlPgCnt .entry-content p:first-child{ font-size: 26px;}
+
+  .blg-cntnt .blog_cnt{ font-size: 14px;}
+
+  #letsTlk .letsTalkMdImg{ margin-top: 80px; display: block;}
+
+  #our_clientsec .clientLogoDv{ height: 100px;} 
+
+  #aboutSec .aboutCnt h2{ font-size: 28px;}
+
+  #internshipSec .internshipQuote{ margin-top: 40px;}
+
+  #internshipSec .internshipExp{ margin-top: 30px; top: 55%; bottom: inherit;}
+
+  #internshipSec .internshipBx{height: 500px; width: 95%; margin-bottom: 0;}
+
+  #internshipSec .secHeading h2{ font-size: 28px; text-align: left;}
+
+  #inrPgBnr .inrPgBnrCnt h1{ font-size: 40px;}
+
+  #inrPgBnr{ height: 33vw;}
+
+  #industryPulseSec, #practiceAreaSec, #greenGroundSec .greenGroundMn, #our_clientsec, #recommonde_sec, #aboutSec, #outTeamSec, #green-ground-pg{ padding: 55px 0;}
+
+  footer .footerMn{ padding-top: 55px;}
+
+    footer .contactInfoSingle .contactInfoLft{ display: none;}
+
+      footer .contactInfoSingle .contactInfoRight{width: calc(100%);}
+
+  footer .contactInfoDv{ margin-top: 0;}
+
+  #greenGroundSec .greenGroundRight{ width: auto; margin-bottom: 0;}
+
+  #practiceAreaSec .practiceAreaBx .practiceAreaCnt h6{ margin-bottom: 15px;}
+
+  #practiceAreaSec .practiceAreaBx .practiceAreaCnt{ padding: 32px;}
+
+  .industryPulse-home .row .col-12:last-child{ display: none;}
+
+    .siteBtn.siteBtnSlider{ display: inline-block;}
+
+    #slider{ height: auto;}
+
+    #slider img{ object-fit: none; height: auto;}
+
+ #slider .slider-cntnt h1,  hgroup.siteHeading h2, #internshipFrm .secHeading h2{font-size: 42px;}
+
+}
+
+
+
+/* Large (lg) — 992px and up */ 
+
+@media (min-width: 992px) {
+
+  .blg-cntnt .blog_cnt{ font-size: 16px;}
+
+  .about-pg .about-cnt2{ margin-top: 20px;}
+
+  #aboutSec .aboutImg{ width: 75%; margin-bottom: 0;}
+
+  #aboutSec .aboutImgPart{ height: 450px;}
+
+  #our_clientsec .clientsLogoUl li{ width: 25%;}
+
+  #our_clientsec .clientLogoDv{ height: 120px;}
+
+  #aboutSec .aboutImg{ width: 100%; margin: auto;}
+
+  #aboutSec .aboutCnt h2, #internshipSec .secHeading h2{ font-size: 32px;}
+
+  #internshipSec .internshipBx{ width: 75%;}
+
+  #internshipSec .internshipExp{ right: -120px;} 
+
+  /* #internshipSec .secHeading h2{ font-size: 35px; width: 80%;} */
+
+  #inrPgBnr .inrPgBnrCnt h1{ font-size: 50px;}
+
+  footer .contactInfoSingle .contactInfoLft{ display: block;}
+
+  footer .contactInfoSingle .contactInfoRight{width: calc(100% - 140px);}
+
+    .industryPulse-home .row .col-12:last-child{ display: block;}
+
+  #industryPulseSec .indusPulsBxcNT h6{ margin-bottom: 12px;}
+
+  #industryPulseSec .indusPulsBxcNT h4{ font-size: 16px;}
+
+ header ul.nav-menu.head-mainmenu{ display: flex;}
+
+ #slider .slider-cntnt h1{font-size: var(--main-heading-fontsize);}
+
+ hgroup.siteHeading h2, #internshipFrm .secHeading h2{ font-size: var(--section-heading-fontsize);}
+
+}
+
+
+
+/* Extra Large (xl) — 1200px and up */
+
+@media (min-width: 1200px) {
+
+#industryPulseSec .indusPulsBxcNT h4{ font-size: 18px;}
+
+}
+
+
+
+/* XXL (Custom, often added manually) — 1400px and up */
+
+@media (min-width: 1400px) {
+
+  /* Your styles for very large screens */
+
+}
+
+
+
+/* Ultra-wide (Custom, optional) — 1600px and up */
+
+@media (min-width: 1600px) {
+
+  /* Optional styling for ultra-wide screens */
+
+}
+
+
+
+/* Full HD (Custom, optional) — 1920px and up */
+
+@media (min-width: 1920px) {
+
+  /* Optional styling for full HD and above */
+
+}
+
